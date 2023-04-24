@@ -18,4 +18,4 @@ Please note: Important
     This script works best if you leave your PC idle/AFK.
     This script was made for educational purposes
     I am not responsible for your actions
-***الاداة قانونية ولا تسبب اي حظر او باندو شكرا لدعمنا***
+***الاداة قانونية ولا تسبب اي حظر & باند, شكرا لدعمنا***
