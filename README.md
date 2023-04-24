@@ -3,7 +3,8 @@ How to use
 
 For Windows Users
 
-    Install Python from here. It is super important that checkbox Add Python to PATH is checked on setup.
+    Install Python from here https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe 
+    . It is super important that checkbox Add Python to PATH is checked on setup.
     After Python is installed, you need to install the required modules that are used for this script.
     Open the file called Install Requirements.bat. This will do everything for you with no issues, simple.
     You will need to install an android emulator. I recommend NoxPlayer.
